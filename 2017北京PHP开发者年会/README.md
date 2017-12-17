@@ -1,5 +1,5 @@
 ## 2017北京PHP开发者年会暨中国 isophp 社区成立
-内容中包含各位老师演讲稿件，非pdf格式的稿件已经另外生成了pdf格式
+包含各位老师演讲稿件，非pdf格式的稿件已经另外生成了pdf格式。
 ### 大会关键字
 1. [报名入口](http://t.cn/RYEtvKb)
 2. [大会录像](http://www.itdks.com/dakashuo/mobile/8825)
